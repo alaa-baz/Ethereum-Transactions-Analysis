@@ -1,3 +1,5 @@
 # Ethereum-Transactions-Analysis
+ 
+Ethereum transactions have been analysed by using MapReduce and Spark. QMUL's Hadoop cluster has been used to process it. 
 
- Big Data Processing Coursework
+The results have been plotted, and written observations in the report file.
